@@ -111,3 +111,23 @@ body{
     color: white;
 
 }
+
+footer {
+    color: white;
+}
+
+.but {
+    background-color: purple;
+    color: white;
+    border-color: purple;
+    border-style:dotted;
+    border-radius: 15px;
+    padding: 5px;
+
+    margin: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
