@@ -1,0 +1,113 @@
+.nav-bar {
+    background-color
+    color: white;
+    height: 60px;
+    
+    
+    
+}
+nav ul {
+    list-style: none;
+    justify-content:center;
+    display: flex;
+    
+    color: white;
+    align-items: center;
+
+}
+.it {
+    text-align: center;
+    
+}
+.logo{
+    margin: 0;
+    border:2px solid #f6c23e;
+    padding: 5px;
+   
+    display: inline-block;
+
+}
+.h2 {
+    margin: 0;
+    border:  solid #f6c23e;
+    padding: 0px;
+    
+    display: inline-block;
+    color:white;
+
+
+
+}
+
+
+body {
+    backgrou
+}
+
+
+}
+
+
+.table {
+    
+    background-color: gray;
+}
+body{
+    background-color: black;
+}
+.her2 {
+   
+    margin-top:50px;
+    border: 2px solid #f6c23e;
+    padding: 0px;
+
+    display: inline-block;
+    color:white;
+}
+
+.body {
+    font-family: monospace;
+}
+.div2 {
+    
+    color:white;
+}
+.div3 {
+    margin-top: 10px;
+    color: white;
+}
+.ma {
+    border: 2px solid #f6c23e;
+    padding: 0px;
+    
+
+    display: inline-block;
+
+    
+}
+.ma2 {
+    border: 2px solid #f6c23e;
+    padding: 0px;
+
+    display: inline-block;
+}
+.div4 {
+    margin-top: 10px;
+    color: white;
+}
+.div5 {
+    margin-top: 10px;
+    color: white;
+
+}
+.div6 {
+    margin-top: 10px;
+    color: white;
+
+}
+
+.div7 {
+    margin-top: 10px;
+    color: white;
+
+}
