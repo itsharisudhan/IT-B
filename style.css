@@ -88,6 +88,7 @@ body{
 .ma2 {
     border: 2px solid #f6c23e;
     padding: 0px;
+    
 
     display: inline-block;
 }
@@ -112,9 +113,6 @@ body{
 
 }
 
-footer {
-    color: white;
-}
 
 .but {
     background-color: purple;
@@ -130,4 +128,8 @@ footer {
 a {
     color: white;
     text-decoration: none;
+}
+
+.div8 {
+    color: white;
 }
